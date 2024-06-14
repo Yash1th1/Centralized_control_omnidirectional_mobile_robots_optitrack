@@ -75,7 +75,11 @@ https://github.com/Yash1th1/Centralized_control_omnidirectional_mobile_robots_op
 https://github.com/Yash1th1/Centralized_control_omnidirectional_mobile_robots_optitrack/assets/76571496/7113103d-f5c3-4cea-b599-136b00aaa93f
 
 
-https://github.com/Yash1th1/Centralized_control_omnidirectional_mobile_robots_optitrack/assets/76571496/9b3e159b-0fe4-45fe-b90a-51b88af508f4
+
+
+https://github.com/Yash1th1/Centralized_control_omnidirectional_mobile_robots_optitrack/assets/76571496/d9a2f464-2439-41fb-988a-b0329d7f2dae
+
+
 
 
 
