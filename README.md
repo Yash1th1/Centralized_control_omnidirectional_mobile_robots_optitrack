@@ -65,3 +65,5 @@ This repository contains the implementation of a centralized control system for 
 ## Contribution
 Contributions are welcome! If you have any improvements, bug fixes, or new features, please open an issue or submit a pull request.
 
+https://github.com/Yash1th1/Centralized_control_omnidirectional_mobile_robots_optitrack/assets/76571496/27317771-e2e8-4318-88c1-c09548b7bc59
+
